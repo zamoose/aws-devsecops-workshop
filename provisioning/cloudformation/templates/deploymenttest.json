@@ -62,6 +62,7 @@
               "Ref": "WorldCIDR"
             }
           },
+        ],
         "GroupDescription": "SSH access for deployment.",
         "SecurityGroupIngress": [
           {
