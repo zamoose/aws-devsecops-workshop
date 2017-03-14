@@ -45,7 +45,7 @@
       "Type": "String",
       "Description": "Jenkins UUID"
     }
-  },;
+  },
   "Resources": {
     "ApplicationSecurityGroup": {
       "Properties": {
